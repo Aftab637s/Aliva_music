@@ -1,5 +1,4 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
+http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
 .youtube.com	TRUE	/	TRUE	1734720860	GPS	1
@@ -18,4 +17,4 @@
 .youtube.com	TRUE	/	TRUE	1769279326	LOGIN_INFO	AFmmF2swRQIgbf231KNp8SOzhDLVxRWKyly34MJu3dB9iHqFnWgVrU0CIQD7MVZ7N--uR-SyuknFAjJ52Szzbq3un74zm9r0MBzjSw:QUQ3MjNmdy1iRXdmSW1udU1mQS1KVnVGVUM2amtNekJsdS00blBtSldhRGotVXdBZWlBTG9zQTl5akFidmZJLWYyVkdqa05hUGEwWFFNX0RWblJFa1d0djhmMWFBX25BSjlKTDVoZ2FmMEl3NWVER2xkQ0tQMmNBMjJLWVV2TjhreFZIRjUxTmRGekIweUFwRU9vY1ljTnhfckVQeXpfRXdB
 .youtube.com	TRUE	/	FALSE	1766255790	SIDCC	AKEyXzWZkxQtMLvtvHrBOH1Lobt2HplTQfyLeGJax2yCUTOUBaEwwbuzTPy230DYRfVecw5Xog
 .youtube.com	TRUE	/	TRUE	1766255790	__Secure-1PSIDCC	AKEyXzVYMnQ-OlfrlBFgRRFbVPYw_fSH0koR9ipLcj7m19B7cjuV4hGxKThQM4Vot68g38e0
-.youtube.com	TRUE	/	TRUE	1766255790	__Secure-3PSIDCC	AKEyXzXtclTUUfR1keDLaiAewMpN038JZtrSNl7YNfcjATWa950W-2_e2kmi1blYbVpz3sd9
+.youtube.com	TRUE	/	TRUE	1766255790	__Secure-3PSIDCC	AKEyXzXtclTUUfR1keDLaiAewMpN038JZtrSNl7YNfcjATWa950W
